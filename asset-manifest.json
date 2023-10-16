@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NabhanNisham/To-Do-List/static/css/main.bedc83da.css",
+    "main.js": "/NabhanNisham/To-Do-List/static/js/main.3f422952.js",
+    "static/js/787.b6086cd3.chunk.js": "/NabhanNisham/To-Do-List/static/js/787.b6086cd3.chunk.js",
+    "index.html": "/NabhanNisham/To-Do-List/index.html",
+    "main.bedc83da.css.map": "/NabhanNisham/To-Do-List/static/css/main.bedc83da.css.map",
+    "main.3f422952.js.map": "/NabhanNisham/To-Do-List/static/js/main.3f422952.js.map",
+    "787.b6086cd3.chunk.js.map": "/NabhanNisham/To-Do-List/static/js/787.b6086cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedc83da.css",
+    "static/js/main.3f422952.js"
+  ]
+}
